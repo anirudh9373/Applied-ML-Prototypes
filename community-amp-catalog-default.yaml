@@ -13,4 +13,3 @@ entries:
       - Audio
     git_url: 'https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation'
     is_prototype: true
-    is_community: true
